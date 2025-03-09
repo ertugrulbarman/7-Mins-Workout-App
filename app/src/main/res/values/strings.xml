@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">7 Mins Workout</string>
+    <string name="imageview">ImageView</string>
+    <string name="start_btn">START</string>
+    <string name="get_ready">GET READY FOR</string>
+    <string name="image">image</string>
+    <string name="a7_minutes_workout">7 MINUTES WORKOUT</string>
+</resources>
